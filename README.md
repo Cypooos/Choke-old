@@ -10,4 +10,9 @@ Yes. Nothing to talk about.
 
 ![Video here](https://imgur.com/7BqARR6.gif)
 
+**Dependances**
+ - QEMU
+ - mtools (if on Arch)
+ - libisoburn
+
 ### bye
